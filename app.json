@@ -1,0 +1,31 @@
+{
+  "pages": [
+    "home/home",
+    "profile/profile"
+  ],
+  "sitemapLocation": "sitemap.json",
+  "window": {
+    "navigationBarBackgroundColor": "#ff5777",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "我的小程序",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": false
+  },
+  "tabBar": {
+    "selectedColor": "#3d4354",
+    "list": [{
+      "pagePath": "home/home",
+      "text": "首页",
+      "iconPath": "assets/tabbar/icon_tabbar_home_normal@2x.png",
+      "selectedIconPath": "assets/tabbar/icon_tabbar_home_selected@2x.png"
+    },
+    {
+      "pagePath": "profile/profile",
+      "text": "我的",
+      "iconPath": "assets/tabbar/icon_tabbar_me_normal@2x.png",
+      "selectedIconPath": "assets/tabbar/icon_tabbar_me_selected@2x.png"
+    }
+  ]
+  }
+}
