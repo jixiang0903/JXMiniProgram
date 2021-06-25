@@ -1,2 +1,0 @@
-# JXMiniProgram
-learnMiniProgram
