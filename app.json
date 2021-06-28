@@ -1,5 +1,7 @@
 {
   "pages": [
+    "button/button",
+    "text/text",
     "home/home",
     "profile/profile"
   ],
