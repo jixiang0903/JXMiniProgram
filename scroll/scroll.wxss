@@ -1,0 +1,24 @@
+/* scroll/scroll.wxss */
+.container1 {
+  background: yellow;
+  white-space: nowrap;
+}
+.item1 {
+  width: 100px;
+  height: 100px;
+  background: red;
+  margin: 10px;
+  display: inline-block;
+}
+
+.container2 {
+  background: palegreen;
+  height: 300px;
+  margin-top: 10px;
+}
+
+.item2 {
+  height: 100px;
+  background: pink;
+  margin: 10px;
+}

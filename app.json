@@ -1,5 +1,9 @@
 {
   "pages": [
+    "scroll/scroll",
+    "input/input",
+    "image/image",
+    "view/view",
     "home/home",
     "profile/profile"
   ],
