@@ -1,1 +1,8 @@
 /* home/home.wxss */
+.container{
+  display: flex;
+}
+.item{
+  flex: 1;
+  text-align: center;
+}
