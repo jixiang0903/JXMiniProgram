@@ -4,6 +4,9 @@
     "input/input",
     "image/image",
     "view/view",
+    "pages/wxs/wxs",
+    "wxml/wxml",
+    "wxss/wxss",
     "home/home",
     "profile/profile"
   ],
