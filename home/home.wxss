@@ -1,1 +1,11 @@
 /* home/home.wxss */
+.title {
+  color: chartreuse;
+}
+
+.red{
+  color: red;
+}
+.green{
+  color: green;
+}

@@ -3,6 +3,9 @@
     "home/home",
     "profile/profile"
   ],
+  "usingComponents": {
+    "my-cpn": "/components/my-cpn/my-cpn"
+  },
   "sitemapLocation": "sitemap.json",
   "window": {
     "navigationBarBackgroundColor": "#ff5777",
